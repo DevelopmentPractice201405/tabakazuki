@@ -1,4 +1,4 @@
-require 'spec_helper'
+reqre 'spec_helper'
 
 describe Micropost do
 
