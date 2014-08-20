@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 53424e6652532deb39628cb097981971fa0f3ed7 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1403828834 +0900	branch: Created from HEAD
+53424e6652532deb39628cb097981971fa0f3ed7 f6813a4b168e5978713a110a1dcae264bd3d3da9 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1404192329 +0900	commit: Make a basic User model (including secure passwords)

@@ -1,0 +1,31 @@
+0000000000000000000000000000000000000000 125754ff0c0186bc36270d7e4be14f2cd0a8c997 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1402275126 +0900	commit (initial): Initial commit
+125754ff0c0186bc36270d7e4be14f2cd0a8c997 63d7d89c30669fd98f32acd333a887aa73a9b471 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1402275258 +0900	commit: Improve the README file
+63d7d89c30669fd98f32acd333a887aa73a9b471 0c46ce34c12edbe9e5af084eb8af505a855f79d0 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1402276076 +0900	commit: Add precompiled assets for Heroku
+0c46ce34c12edbe9e5af084eb8af505a855f79d0 0c46ce34c12edbe9e5af084eb8af505a855f79d0 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1402277927 +0900	checkout: moving from master to static-pages
+0c46ce34c12edbe9e5af084eb8af505a855f79d0 e35f016f83c2116159c48d7287387df8a79296ff takumitina <takumi_c-12a@stu.kbc.ac.jp> 1402279249 +0900	commit: Add a StaticPages controller
+e35f016f83c2116159c48d7287387df8a79296ff 16be91916763534626fd07f697f6e8d5893b37d7 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1402541424 +0900	commit: Finish static pages
+16be91916763534626fd07f697f6e8d5893b37d7 0c46ce34c12edbe9e5af084eb8af505a855f79d0 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1402541440 +0900	checkout: moving from static-pages to master
+0c46ce34c12edbe9e5af084eb8af505a855f79d0 16be91916763534626fd07f697f6e8d5893b37d7 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1402541452 +0900	merge static-pages: Fast-forward
+16be91916763534626fd07f697f6e8d5893b37d7 ec29000a51967e0d530dfacea05f45736772b140 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1403064585 +0900	commit: Add a full_title helper
+ec29000a51967e0d530dfacea05f45736772b140 ec29000a51967e0d530dfacea05f45736772b140 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1403656824 +0900	checkout: moving from master to filling-in-layout
+ec29000a51967e0d530dfacea05f45736772b140 6545e2ad501e3f30388e6bb304d50e8bc829504a takumitina <takumi_c-12a@stu.kbc.ac.jp> 1403667401 +0900	commit: Finish layout and routes
+6545e2ad501e3f30388e6bb304d50e8bc829504a ec29000a51967e0d530dfacea05f45736772b140 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1403667411 +0900	checkout: moving from filling-in-layout to master
+ec29000a51967e0d530dfacea05f45736772b140 6545e2ad501e3f30388e6bb304d50e8bc829504a takumitina <takumi_c-12a@stu.kbc.ac.jp> 1403667419 +0900	merge filling-in-layout: Fast-forward
+6545e2ad501e3f30388e6bb304d50e8bc829504a 53424e6652532deb39628cb097981971fa0f3ed7 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1403667728 +0900	commit: Finish layout and routes
+53424e6652532deb39628cb097981971fa0f3ed7 53424e6652532deb39628cb097981971fa0f3ed7 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1403667736 +0900	checkout: moving from master to master
+53424e6652532deb39628cb097981971fa0f3ed7 53424e6652532deb39628cb097981971fa0f3ed7 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1403828818 +0900	checkout: moving from master to master
+53424e6652532deb39628cb097981971fa0f3ed7 53424e6652532deb39628cb097981971fa0f3ed7 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1403828834 +0900	checkout: moving from master to modeling-users
+53424e6652532deb39628cb097981971fa0f3ed7 f6813a4b168e5978713a110a1dcae264bd3d3da9 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1404192329 +0900	commit: Make a basic User model (including secure passwords)
+f6813a4b168e5978713a110a1dcae264bd3d3da9 53424e6652532deb39628cb097981971fa0f3ed7 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1404192444 +0900	checkout: moving from modeling-users to master
+53424e6652532deb39628cb097981971fa0f3ed7 f6813a4b168e5978713a110a1dcae264bd3d3da9 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1404192485 +0900	merge modeling-users: Fast-forward
+f6813a4b168e5978713a110a1dcae264bd3d3da9 f6813a4b168e5978713a110a1dcae264bd3d3da9 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1404196224 +0900	checkout: moving from master to master
+f6813a4b168e5978713a110a1dcae264bd3d3da9 f6813a4b168e5978713a110a1dcae264bd3d3da9 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1404434333 +0900	checkout: moving from master to master
+f6813a4b168e5978713a110a1dcae264bd3d3da9 f6813a4b168e5978713a110a1dcae264bd3d3da9 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1404434346 +0900	checkout: moving from master to sign-up
+f6813a4b168e5978713a110a1dcae264bd3d3da9 23e6606c440ce8c7560f394376be8cf2d081ec66 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1404446502 +0900	commit: Finish user signup
+23e6606c440ce8c7560f394376be8cf2d081ec66 f6813a4b168e5978713a110a1dcae264bd3d3da9 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1404446507 +0900	checkout: moving from sign-up to master
+f6813a4b168e5978713a110a1dcae264bd3d3da9 23e6606c440ce8c7560f394376be8cf2d081ec66 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1404446513 +0900	merge sign-up: Fast-forward
+23e6606c440ce8c7560f394376be8cf2d081ec66 68f7605c7e01d065d67ca613882e0f2ddeda147c takumitina <takumi_c-12a@stu.kbc.ac.jp> 1404446627 +0900	commit: Add SSL in production
+68f7605c7e01d065d67ca613882e0f2ddeda147c 68f7605c7e01d065d67ca613882e0f2ddeda147c takumitina <takumi_c-12a@stu.kbc.ac.jp> 1405470698 +0900	checkout: moving from master to sign-in-out
+68f7605c7e01d065d67ca613882e0f2ddeda147c fe9aefd5d9fec88878ed62a412622b224e41f2a3 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1405482956 +0900	commit: Finish sign in
+fe9aefd5d9fec88878ed62a412622b224e41f2a3 68f7605c7e01d065d67ca613882e0f2ddeda147c takumitina <takumi_c-12a@stu.kbc.ac.jp> 1405482962 +0900	checkout: moving from sign-in-out to master
+68f7605c7e01d065d67ca613882e0f2ddeda147c fe9aefd5d9fec88878ed62a412622b224e41f2a3 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1405482969 +0900	merge sign-in-out: Fast-forward

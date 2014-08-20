@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 0c46ce34c12edbe9e5af084eb8af505a855f79d0 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1402277927 +0900	branch: Created from HEAD
+0c46ce34c12edbe9e5af084eb8af505a855f79d0 e35f016f83c2116159c48d7287387df8a79296ff takumitina <takumi_c-12a@stu.kbc.ac.jp> 1402279249 +0900	commit: Add a StaticPages controller
+e35f016f83c2116159c48d7287387df8a79296ff 16be91916763534626fd07f697f6e8d5893b37d7 takumitina <takumi_c-12a@stu.kbc.ac.jp> 1402541424 +0900	commit: Finish static pages
